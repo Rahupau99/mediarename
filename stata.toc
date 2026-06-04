@@ -1,4 +1,0 @@
-v 3
-d 'MEDIARENAME': Stata Audio & Image Backcheck Automation Toolkit
-d AUTHOR: Rahul Paul - JPAL SA
-p mediarename
