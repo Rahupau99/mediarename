@@ -1,4 +1,4 @@
-# backcheck — Stata Audio & Image Backcheck Automation
+# mediarename — Stata Audio & Image Backcheck Automation
 
 **Author:** Rahul Paul  (J-PAL South Asia)
 **Version:** 1.0.0  
