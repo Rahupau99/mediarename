@@ -1,0 +1,6 @@
+v 1.0.0
+d 'MEDIARENAME': Stata Audio & Image Backcheck Automation Toolkit
+d AUTHOR: Rahul Paul - JPAL SA
+d Distribution-Date: 20260604
+f audio_rename.ado
+f image_rename.ado
